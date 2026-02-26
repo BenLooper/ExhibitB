@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Project</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Jan 2026 22:32:18 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terminal Customization in 2026</title>
+      <link>http://localhost:1313/posts/terminal_customization/</link>
+      <pubDate>Tue, 13 Jan 2026 22:32:18 -0600</pubDate>
+      <guid>http://localhost:1313/posts/terminal_customization/</guid>
+      <description>&lt;h3 id=&#34;working-in-the-terminal&#34;&gt;Working in the terminal&lt;/h3&gt;&#xA;&lt;p&gt;I never thought I would be that guy, but here we are - I now have an embarrasing desire to use my computer as much as I can from the terminal.&#xA;I don&amp;rsquo;t really know exactly where it came from or why, all I can say is that it satisfies a desire in me to have control over my experience.&#xA;Since learning Neovim and adopting it as my primary editor, I had a realization that all of the applications that I&amp;rsquo;ve been using - Chrome, Spotify, VSCode - they&amp;rsquo;re all fancy wrappers for rudimentary tasks.&lt;br&gt;&#xA;Neovim showed me that something simpler, something totally free and transparent that I can make myself, could be just as good (if not better) than those apps.&#xA;This kind of software feels like a gateway to learning how things &lt;em&gt;really&lt;/em&gt; work - you can look at the code yourself to understand what&amp;rsquo;s happening.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dragons Dogma 2</title>
+      <link>http://localhost:1313/posts/dragons-dogma-2/</link>
+      <pubDate>Fri, 03 Oct 2025 21:53:22 -0500</pubDate>
+      <guid>http://localhost:1313/posts/dragons-dogma-2/</guid>
+      <description>&lt;h2 id=&#34;re-discovering-confidence-with-dragons-dogma-2&#34;&gt;Re-discovering Confidence with Dragon&amp;rsquo;s Dogma 2&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Will is power - power to shape the world for the better.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;inadequacy&#34;&gt;Inadequacy&lt;/h4&gt;&#xA;&lt;p&gt;I want to do something, be something, accomplish something, but for it never happens.&#xA;I go about my days, sometimes life feels like it&amp;rsquo;s blowing past me, and at the end of most days I feel disatisfied with myself.&#xA;It&amp;rsquo;s usually not a very intense feeling, like a dull ache in the back of my mind, like I forgot to do something, like I should be doing more.&#xA;And somehow this feeling never goes away. I can distract myself from it, I can address it directly by being productive&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/posts/introduction/</link>
+      <pubDate>Tue, 16 Sep 2025 00:49:38 -0500</pubDate>
+      <guid>http://localhost:1313/posts/introduction/</guid>
+      <description>&lt;h2 id=&#34;welcome&#34;&gt;Welcome&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m Ben, thanks for stopping by :^)&#xA;I&amp;rsquo;m a husband, a father to three cats, and I&amp;rsquo;m interested in&amp;hellip;a lot of things. Maybe too many things?&#xA;Either way, I&amp;rsquo;ll be writing about those things mostly, and I hope to also try my hand at some multi-media fun.&lt;/p&gt;&#xA;&lt;p&gt;Now you might be wondering what I meant by &amp;ldquo;multi-media fun&amp;rdquo; a second ago - Hi, I&amp;rsquo;m the real Ben, the one that thinks&#xA;a little less about how I present myself and just sort of&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
